@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:700');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+header {
+    margin-bottom: 68px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.16);
+    padding: 33px;
+}
+
+header1 {
+    margin-bottom: 15px;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.16);
+    padding: 15px;
+}
+
+.li {
+    display: inline-block;
+    margin-right: -.25em;
+    position: relative;
+    top: 1.25em;
+}
+
+footer {
+    background-color: #19345E;
+    margin-top: 246px;
+}
+
+nav{
+    float: right;
+    padding: 10px;
+}
+
+ul {
+    text-align: justify;
+}
+
+.ul:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+.ul:before {
+    content: '';
+    display: block;
+    margin-top: -1.25em;
+}
+
+.ulul{
+    list-style: none;
+}
+.listnav{
+    display: inline-block;
+    padding: 10px 10px;
+    margin-right: 105px;
+    margin-top: 16px;
+    font-family: Muli, sans-serif;
+    font-size: 14px;
+}
+
+hr{
+    width: 1020px;
+    background-color: #19345E;
+}
+
+.logo-head{
+    margin-left: 105px;
+    margin-top: 16px;
+    width: 138px;
+    height: 70px;
+}
+
+.logo-foot{
+    margin-left: 106px;
+    margin-top: 44px;
+    width: 134px;
+    height: 67px;
+}
+
+.img-gallery{
+    height: 305px;
+    width: 305px;
+    border-radius: 8px;
+    margin-bottom:15px;
+}
+
+.gallery{
+    font-family: Muli, sans-serif; 
+    font-size: 20;
+    margin-left: 33px;
+}
+
+.copyright{
+    font-family: Roboto, sans-serif;
+    font-size: 12px;
+    color : white;
+    margin-left: 106px;
+}
+
+.marginfoot{
+    margin-bottom: 63px;
+}
+
+.icon-gallery{
+    margin-left: 112px;
+    max-width: 50%;
+    max-height: 50%;
+    width: 50px;
+    height: 42px;
+}
+
+.medsos{
+    font-family: Arial;
+    font-size: 12px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 180px;
+    text-align: left;
+}
+
+.medword{
+    padding-left: 20px;
+}
+
+.imgfoot{
+    width: 13px;
+    height: 13px;
+}
+
+.rowfoot{
+    text-align: center;
+    margin-top: 44px;
+}
+
+.row-gallery{
+    margin: 38px;
+}
+
+#nav-color{
+    color: orangered;
+}
+
+#follow{
+    font-family: Arial;
+    color: white;
+    font-size: 17px;
+}
+
+.nomorurutberita{
+    width: 100%;
+    height: 7.5px;
+    border: solid 0.5pt black;
+    padding:5px;
+}
+
+.beritadisplay{
+    width: 100%;
+    height: 30px;
+    border: solid 1pt black;
+    padding:10px;
+}
+
+.inputformnama{
+    width: 600px;
+    height: 52px;
+    padding-left: 40px;
+    border-radius:5px;
+    border-color:#707070;
+    border-width:1px;
+    margin-left:50px;
+  }
+
+.inputnama{
+    padding:10pt 0pt;
+    margin-left:108px;
+}
+
+.jaraksearch{
+    margin-bottom:50px;
+}
+
+.displaygambar{
+    width: 100%;
+    height: 400px;
+    padding:10px;
+    border: solid 0.5pt black;
+}
+
+.displayjudul{
+    width: 100%;
+    height: 30px;
+    padding:10px;
+}
+
+.displayberita{
+    width: 100%;
+    height: 80px;
+    padding:10px;
+}

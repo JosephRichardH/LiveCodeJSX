@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:700');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+footer {
+    background-color: #19345E;
+    margin-top: 246px;
+}
+
+.container-aboutme{
+    margin-left: 100px;
+    margin-right:100px;
+    margin-top: 60px;
+    margin-bottom:139px;
+    border: 1pt solid #DEDEDE;
+    border-radius: 10px;
+}
+
+.titletable{
+    margin-top: 31px;
+    padding-left:46px;
+    margin-bottom:35px;
+    padding-right: 70px;
+}
+.banner{
+    background-image: url("../img/img-header@2x.png");
+}
+
+.profile{
+    width: 174px;
+    height: 174px;
+    border-radius: 50%;
+    margin: 63px 530px 0 530px;
+}
+
+table, th, td{
+border: #CBCBCB solid 1px;
+border-collapse: collapse;
+}
+
+.barisputihkecil{
+    height:40px;width:90px;
+}
+.barisputihbesar{
+    height:40px;width:298px;
+}
+.barisabukecil{
+    height:40px;width:90px;background-color: #E3E3E3;
+}
+.barisabubesar{
+    height:40px;width:298px;background-color: #E3E3E3;
+}
+
+.tableawal{
+    margin-top:35px;
+}
+
+.ulul{
+    list-style: none;
+}
+
+.isiaboutme{
+    margin-top: 31px;
+    padding-left:46px;
+    margin-bottom:35px;
+    padding-right: 70px;
+}
+.nama{
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 45px;
+    margin-top: 13px;
+    margin-left: 475px;
+    
+}
+
+.location{
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 13px;
+    margin-left: 540px; 
+    background:url("../ico/ico-location.png") no-repeat;
+    align-content: center;
+    padding-left:50px;
+    height:20px;
+    padding-left: 20px;
+}
+
+.job{
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 20px;
+    margin-top: 13px;
+    margin-left: 525px; 
+}
+
+.cv{
+    width:192px;
+    height:53px;
+    background-color:#F47522;
+    margin-left:515px;
+    margin-bottom: 54px;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+}
+
+nav{
+    float: right;
+    padding: 10px;
+}
+
+.img-header{
+    width: 1300px;
+    height: 515px;
+}
+
+.listnav{
+    display: inline-block;
+    padding: 10px 10px;
+    margin-right: 105px;
+    margin-top: 16px;
+    font-family: Muli, sans-serif;
+    font-size: 14px;
+}
+
+.logo-head{
+    margin-left: 105px;
+    margin-top: 16px;
+    width: 138px;
+    height: 70px;
+}
+
+.paragraf{
+    color: #1C1C1C;
+    font-family: Muli, sans-serif;
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+.a{
+    color: red;
+}
+
+.aboutme{
+    color: #19345E;
+    font-family: Muli, sans-serif;
+    font-size: 25px;
+    margin-top: 31px;
+    
+}
+
+.logo-foot{
+    margin-left: 106px;
+    margin-top: 44px;
+    width: 134px;
+    height: 67px;
+}
+
+.copyright{
+    font-family: Roboto, sans-serif;
+    font-size: 12px;
+    color : white;
+    margin-left: 106px;
+}
+
+.marginfoot{
+    margin-bottom: 63px;
+}
+
+.imgfoot{
+    width: 13px;
+    height: 13px;
+}
+
+.rowfoot{
+    text-align: center;
+    margin-top: 44px;
+}
+
+#nav-color{
+    color: orangered;
+}
+
+#follow{
+    font-family: Arial;
+    color: white;
+    font-size: 17px;
+}
+
+.medsos{
+    font-family: Arial;
+    font-size: 12px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 180px;
+    text-align: left;
+}
+
+.medword{
+    padding-left: 20px
+}
